@@ -1,0 +1,232 @@
+IDEAS SUELTAS — REVISIÓN INTEGRAL (post-30%)
+
+RESUMEN EJECUTIVO
+- Estado actual: ~30% de la novela terminado. Personajes principales: Emrys, Lyra, Sylphena, Hikari, Aegis, Isolde (Dama Invernal). Reglas ya fijadas: Anillo amplificador (amplifica, no crea), potenciación de Emrys: 2–3s activo / 8–12s cooldown / 1 potenciación a la vez.
+- Objetivo: Reescribir/ordenar `IdeasSueltas` para alinear la hoja con el arco que ya existe (Arvandor → Thumoria/Tiamar → Continente Perdido/Pantano → Mytras → Luminethil atacada → Clan de las Sombras → Isla final + Clímax del Caos).
+---------------
+realizado
+---------------
+ESTADO CANÓNICO (hechos ya fijados en el manuscrito):
+- Hikari: audiencia con el Rey donde se le niega oficialmente acompañar la misión; más tarde se involucra con el grupo en la ciudad (guía/acciones encubiertas).
+- Operación Thumoria: misión aceptada por el grupo; punto de partida en el puerto de Thumoria; objetivo: neutralizar al Tiamar.
+- Cueva (inicio): hay una cueva que aparece al principio de la historia (distinta del Monte Roxs).
+- Torneo: la secuencia del torneo ya está escrita y forma parte del manuscrito actual.
+- Estado político: el Rey permanece vivo en la versión actual; hay tensión creciente y riesgo de muertes según la ruta que elijas.
+
+PROPUESTA NARRATIVA GENERAL — DESGLOSE EXTENSO
+
+Objetivo: ampliar cada punto de la propuesta general con escenas, set‑pieces, combates dinámicos, dificultades nuevas, misiones secundarias, NPCs, diálogos representativos y notas de coherencia con el manuscrito.
+
+IDEAS DIRECTAS — CAPÍTULO 1: LLEGADA / PREPARACIÓN / BATALLA
+
+Llegada — escenas y beats (ideas concretas)
+1. Al acercar la comitiva a la entrada del pueblo, los presentes se quedan en silencio al ver a **Hikari** bajar por la senda principal y avanzar a paso firme; su capa, marcada de polvo del camino, no oculta la determinación en su rostro. Algunos niños apartan los ojos; una mujer mayor la reconoce y hace una reverencia de respeto.Hikari rapidamente le pide a la señora que se levante; le agradece pero le dice que no le diga a los demas quien es. en ese punto se dan cuenta que no puden ir por cualquier sitio ya que los reconocerias.
+2. descripcion del puebo. Es un punto pesquero importante del reino alli lo que mas hay son comerciantes ya que son indispensables para que la economia funciones. Describir productos que ven (la mayoria tienen que ver con la vida marina. )
+3. Se detienen en un puesto junto a la plaza y compran **capuchas de tela gris** —no por cobardía, sino para pasar desapercibidas—. Hikari ajusta la suya con los dedos entrelazados; Sylphena observa la calle a través de la sombra del capuchón y, por un momento, ambas parecen figuras comunes entre la multitud.
+4. Despues de un rato preguntan a los comerciantes por **Garron Thal** (estaba citado en la misión del gremio)y éstos señalan la **taberna del puerto** con un gesto cansado: "Allí, en la mesa junto al horno, siempre está el viejo." Les advierten que el puerto anda inquieto ya que ultimamente hay mas saqueos de lo normal.
+5. Porque así lo indica la costumbre, entran en la taberna: humo, olor a aceite y pan quemado, voces graves y una penumbra que acoge historias. Se acercan a un pescador viejo que, tras observarlos con ojos agudos, les pregunta que quiere; ellos le hablan sobre el encargo/mision del gremio; entonces el pescador comienza a relatar historias de luces en la noche y colmillos bajo la superficie: exagera el peligro del Tiamar como quien intenta medir el temple de los recién llegados. Intenta meter miedo para ver si se doblan; ellos escuchan sin cambiar el gesto, y su indiferencia le roba la sonrisa a la burla y le deja un dejo de respeto.
+6. Una vez que Garron ha comprobado que los protagonistas no se achantan ante las historias, les explica cómo irán a la misión, qué necesitan y cuándo actuarán.
+7. Garron les ayuda a tramitar un **certificado de navegación**, imprescindible para distinguir un navío legal de uno pirata. Micro‑escena: en la oficina portuaria, el escriba revisa sellos y papeles entre el humo de una vela; Garron coloca una bolsa de monedas bajo la mesa y, en voz baja, pide rapidez. El oficial mira el nombre propuesto y frunce el ceño: Hikari no puede usar su nombre real sin riesgo de ser reconocida. Proponen un seudónimo sencillo y una firma parcial; Emrys hace de pantalla y entrega un cartón con datos falsos mientras Garron distrae al escriba con una queja sobre las corrientes. Hay tensión: un guardia se acerca y pregunta por la procedencia del dinero; Emrys resuelve la situación con calma—una sonrisa medida, una palabra de gratitud, una moneda más—y el trámite sigue. Garron advierte en voz baja que el certificado con seudónimo conlleva riesgo: si se descubre la falsedad pueden ser retenidos, multados o investigados; aun así, aceptan y parten con la documentación en la mano.
+8. La noche antes de zarpar, cuando todos ya están en sus aposentos, se ve una luz y humo; huele a quemado. Al mirar por la ventana se dan cuenta de que algunos tenderetes de mercaderes están ardiendo. Al fijarse ven que en el puerto hay un barco pirata (describir el barco pirata de forma tenebrosa) y el muelle está lleno de figuras encapuchadas.
+9. Los protagonistas se disponen a bajar pero los dueños de la posada les detienen. Le dicen que aunque todo el pueblo esta despierto todos estan dentro de sus casas si salir. Ya que el pirata es (nombre) este es un sanginario que mata a todo hombre que se encuentra y viola a toda mujer que ve.
+10. Ademas tambien le cuentan que desde ace ya un tiempo largo esto piratas vienen recurrentemente y destrozan todo lo que les entra en gana.
+11. Sylphena ve que esto es una oportunidad de salvar al pueblo de los bucaneros y ademas de seguramente subir escaños en el gremio. Planean como derrotarles sin romper mas el pueblo. La idea principal es que Sylphena que es la mas bajita se acerque a ellos. y cuando esten ellos este cerca de ella Lyra salga de su sombra y ataque al jefe pirata mientras hikari y emrys apollan de lejos.
+12. Se describe al pirata (sanginario y lleno de sangre, ebrio, con una larga y negra barba, con mucha barriga,y con la mitad de las falanjes del brazo derecho. Este porta un sable enorme que esta oxidado y lleno de sabre, pero con una guarda de joyas. El olor del pirata sera nausiabundo. Tendra todos los dientes negros).
+13. El plan se efectuara a la perfeccion Sylphena se acerca a los piratas diciendoles de manera inocente que se vallan; alli dos piratas la agarraran y la sevan donde el jefe. Es ese momento donde los piratas se rien y discuten sobre quien la utilizara primero; Lyra sale y le raja la garganta por completo al lider pirata.
+14. Los demas piratan las atacaron pero hikari lo inpide atravesandoles con flechas (sus flechas son tan potentes gracias a que emrys esta potenciando su fueza y velocidad para tensar mas el arco y disparar mas flechas).
+15. De los pocos piratas que quedaban se encarga Sylphena que los derrota sin dificultad.
+16. Una vez sin piratas el pueblo que ha visto todo sale a agradecerles por lo acontecido.
+
+---------------
+sin realizar
+---------------
+
+Batalla — escenas y beats (ideas concretas)
+1. La noche cae con una niebla que parece tragarse las lámparas; bioluminiscencias aparecen como manchas errantes en la superficie —pronto se transforman en ojos que miran. La cubierta cruje y las cuerdas silban.
+2. El primer tentáculo emerge y golpea la borda; los hombres gritan, se abren tablas y el olor del mar se vuelve metálico. Un marinero cae al agua con un grito que se corta como una vela.
+3. **Lyra** se mueve por debajo de la lona, corta nudos y libera una red; su figura, encendida por el reflejo, parece una sombra que corta el aire. Trae hombres al borde y les da dos segundos para tensar la red.
+4. **Sylphena** en la jarcia lanza flechas cuajadas de luz; las flechas explotan con ruido seco contra un tentáculo, mostrando carne luminiscente y un chorro de agua negra.
+5. El Tiamar emite un **pulso**: una breve voz hueca que hace que la magia vacile; Emrys siente su energía temblar y debe contener su potenciación hasta el instante perfecto. Él cierra los ojos, respira, y la suelta: el mar se parte con un látigo de hielo y la bestia tambalea.
+6. La criatura lanza sobre la cubierta una ventisca salpicada de visiones: cada hombre ve un recuerdo íntimo; un marinero cae en llanto, otros sienten culpa de cosas que no hicieron. La lucha no es sólo con acero, sino con los recuerdos que el mar despierta.
+7. En el momento decisivo, golpean la red llena y tiran de las anclas: el barco se queda fijo, el Tiamar arremete y queda enredado; hay un crujido antiguo y la bestia se retuerce hasta que la marea la arrastra.
+8. Alternativa: encuentran la **nidada** oculta en una grieta; Lyra la ve con ojos húmedos y decide: un hombre la rasga con una daga; otro la cubre con barro para destruirla; los gestos determinan futuras culpas y conflictos.
+9. Tras la batalla, la cubierta es un mapa de heridas: tablas partidas, sangre salada, una flecha rota clavada en la vela. **Hikari** baja, sus manos cubiertas de lodo y plancha, mira a su gente: la humillación ha cambiado por confianza, pero a su lado la palabra *Frengar* sigue en su memoria, y alguien recoge un trozo de concha con extrañas marcas (pista para Mytras).
+10. De madrugada, una momia de mar se encuentra entre restos flotantes: una medalla oxidada con un sello que nadie reconoce; quien la mira siente escalofríos. Es una pieza que, más tarde, tendrá nombre en los libros: un paso más hacia la verdad.
+
+---
+
+2) PANTANO DE VORATH (Continente perdido)
+Escena(s) clave:
+- Llegada a la costa: la embarcación debe sortear canales; la atmósfera opresiva y la fauna hostil se describen con detalle sensorial.
+- Poblado en ruinas y emboscada: humanoides anfibios, necromancia local y hematomancia.
+
+Combates y diseño dinámico:
+- Combate en terreno con penalizaciones de movimiento (fango) y ataques que alteran el terreno (pozas de lodo que atrapan, burbujas de veneno).
+- Enemigos con roles: lanzadores de necromancia (reviven aliados caídos), sanguijuelas que roban condición.
+
+Dificultades nuevas:
+- Enfermedad del pantano (estado temporal que requiere recurso o curación especial).
+- Recursos perdidos forzando la necesidad de un largo periodo de curación/entrenamiento (puente hacia Seris Kael).
+
+
+NPCs y diálogos:
+- Pescador veterano: “El pantano no recuerda a los olvidados.”
+
+Gancho:
+- Inscripciones y símbolos que coinciden con lo visto en Thumoria — conexión con Mytras.
+
+---
+
+3) MONTE ROXS, CUEVA Y BESTIA DE PIEDRA (arco posterior)
+Escena(s) clave:
+- Entrada oculta y acertijos rúnicos que requieren resonancia o sacrificio leve.
+- Laberinto que mezcla trampas mecánicas y enemigos en emboscada.
+- Sala del ídolo: la estatua se convierte en bestia de piedra con fases de combate.
+
+Combate avanzado:
+- Fase 1: hostigamiento (mordiscos, repulsión), Fase 2: exposición de weakpoints tras daño, Fase 3: control de plataforma con riesgo real de caídas.
+
+Botín y coste narrativo:
+- Cinco anillos (uno por miembro) que ofrecen poderes notables (cada uno porta una magia).
+- Pergamino oscuro (la otra mitad del que Lyra ya habia leido) que reacciona con Lyra y provoca visiones.
+
+Misiones secundarias:
+- "Forja del alma": llevar el anillo a un joyero para análisis; mini‑mazmorra para recuperar una pieza de forja.
+
+Diálogo y tono:
+- Joyero (alarmado): “Esto no es metal; es una historia encerrada.”
+
+Coherencia:
+- Aclarar que Monte Roxs es posterior en la secuencia; insertar adelantos en capítulos previos (rumores en Thumoria/Xervan).
+
+---
+
+4) THUMORIA — INVESTIGACIÓN EN SOMBRA 
+Escena(s) clave:
+- Taberna: social beat que deriva en pelea y exposición de climas políticos.
+- Visita a la antigua casa de Lyra: la anciana y el mapa a las alcantarillas.
+- Alcantarillas: puzzles antiguos, trampas y una biblioteca oculta con fotografías y diarios.
+
+Investigación y persecución:
+- Resolver sellos familiares y abrir la biblioteca oculta; leer el diario del antiguo rey que menciona Frengar y el pergamino dividido.
+- Huida pública cuando el nombre de Emrys aparece en un mural de 'Busca y captura'.
+
+Dificultades y decisiones:
+- Cuidado con la reputación: actividades clandestinas incrementan la vigilancia y afectan la disponibilidad de recursos (hospedaje, comerciantes).
+
+Misiones secundarias:
+- "Falsa identidad/Billete falso": conseguir documentos que permitan salir sin ser detectados.
+
+Diálogo:
+- Anciana: “Frengar escondió algo para aquellos que tuvieran la paciencia de volver.”
+
+Gancho:
+- Obtener la mitad del pergamino y la pista que apunta a Mytras.
+
+---
+
+5) RECUPERACIÓN Y ENTRENAMIENTO — SERIS KAEL
+Escena:
+- Campamento de cazadores: pruebas, monta de entrenamiento y pequeñas misiones de campo.
+
+Objetivos:
+- Conseguir técnicas anti‑Portador y mejorar la cohesión del grupo.
+
+Dificultades nuevas:
+- Rivalidad (rival entrenante) que pone a prueba ego y liderazgo del grupo.
+
+Misiones gremiales relacionadas:
+- "La bestia en la garganta", "Plomo en la red" como pruebas para subir de rango.
+
+Diálogo:
+- Seris Kael: “No es el filo lo que mata; es la cabeza que lo guía.”
+
+---
+
+6) BATALLA POR LEONA — LOS 7 ASCENDIDOS (set bosses)
+Estructura:
+- 4 ascensiones medianas y 3 formidables. Cada ascendido introduce una mecánica que obliga a adaptación.
+
+Ejemplos:
+- Tassar (Resonancia): timing y contraresonancia para Emrys.
+- Morga (Sombras): clones y terreno alterado para Lyra.
+- Kres (Fuego): zonas de daño ambiental para Sylphena.
+
+Opciones narrativas:
+- Variante dramática: muerte del Rey y ascenso de Aegis (alto costo político).
+
+
+---
+
+7) TRADEHOLM Y PREPARACIÓN PARA MYTRAS
+Escenas:
+- Reaprovisionamiento, mejoras de herrería, arreglos comerciales y misiones políticas para asegurar navío.
+
+Misiones:
+- "Pasadizo a Tradeholm" (resolver intriga política para asegurar navío y pasaportes).
+
+Gancho:
+- Rumor de la otra mitad del pergamino en manos de un coleccionista en Mytras o su entorno.
+
+---
+
+8) MYTRAS — DESCUBRIMIENTO DE LA VERDAD
+Escenas:
+- Ruinas colosales, lectura en archivo central; revelación: invocación fallida que generó la catástrofe.
+
+Set‑piece:
+- Aparición de la Gran Bestia (Gorrath/Ash‑Colossus) y pelea/escape donde el Anillo es clave para sobrevivir, con coste narrativo alto.
+
+Decisiones morales:
+- Salvar el archivo (conocer la verdad) vs destruirlo (evitar réplica del experimento).
+
+---
+
+9) LUMINETHIL — ATAQUE A LA TORRE DE CRISTAL
+Escenas:
+- Defensa de la Torre, captura e interrogatorio de Isolde, revelación de control y marca.
+
+Dificultades:
+- División de fuerzas y protección de civiles; el artefacto robado complica la comunicación entre aliados.
+
+Consecuencia:
+- Isolde marcada, posibilidad de redención o tragedia.
+
+---
+
+10) INSPECCIÓN DEL CLAN DE LAS SOMBRAS Y CELEV
+Escenas:
+- Infiltración, conflictos con cultistas y enfrentamiento emocional con Celev (amigo traicionado).
+
+Decisiones:
+- Ejecutar o intentar redimir a Celev; ambas opciones tienen consecuencias de peso dramático.
+
+---
+
+11) BATALLA FINAL — ISLA DEL CAOS
+Set‑pieces:
+- La manifestación del Caos: múltiples fases, degradación de la magia.
+
+Climax emocional:
+- Sylphena y el Alzamiento: poder final con coste irreversible o temporal según elección del autor.
+
+---
+
+12) EPÍLOGO Y OPCIONES DE CIERRE
+Variantes:
+- Dramática: funeral del Rey, Aegis proclamado Rey (impacto político alto).
+- Ambigua: Rey vivo, heridas profundas, restructuración política (consejo).
+
+Temas a cerrar:
+- El precio del poder, redención y responsabilidad.
+
+---
+
+Notas finales: recomendaciones de ritmo, variedad de combates y uso de diálogo para revelar carácter; mantener la coherencia con los hechos canónicos (audiencia negada a Hikari; Monte Roxs posterior; Torneo ya escrito).
+
+SUGERENCIA DE PRIMEROS PASOS (implementación)
+1. Confirmar decisiones claves: muerte/supervivencia de Isolde; destino de Sylphena; formato final (canónico o alternativo).
+2. Escribir 6–8 capítulos que cubran: Thumoria/Tiamar, llegada al Pantano, entrenamiento con Seris Kael, llamada urgente → Leona. Mantener cliffhangers al final de cada capítulo para ritmo.
+3. Detallar a los 7 Ascendidos (movesets, lore individual) para choreografiar las batallas.
+4. Redactar la secuencia de Mytras (3–4 capítulos): descubrimiento → bestia → escape. Mantener la revelación del libro sanguíneo y el pacto para más adelante.1) Salida de Arvandor → Thumoria (Mar de Nyris) — misión: "Operación Thumoria" (Rango por encima del suyo)
+ 
