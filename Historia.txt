@@ -346,9 +346,7 @@ Emrys, escudriñando el estrecho del lago—el punto donde el agua se angostaba 
 
 "Lyra, observa el paso. Hay gente allí. Bandidos, probablemente. Intentarán bloquearnos el camino."
 
-Lyra arqueó una ceja, una sonrisa peligrosa crispándose en sus labios. "Excelente. Hace demasiado tiempo que no tengo una verdadera oportunidad de luchar."
-
-El grupo que les aguardaba en el estrecho comprendía cuatro individuos. Tres de ellos eran patéticos en comparación con cualquier amenaza verdadera: pequeños, escuálidos, la musculatura atrofiada por vidas de indolencia y vicio. Pero el cuarto... el cuarto era diferente.
+Lyra arqueó una ceja, una sonrisa peligrosa crispándose en sus labios. "Excelente. Hace demasiado tiempo que no tengo una verdadera oportunidad de luchar."El grupo que les aguardaba en el estrecho comprendía cuatro individuos. Tres de ellos eran patéticos en comparación con cualquier amenaza verdadera: pequeños, escuálidos, la musculatura atrofiada por vidas de indolencia y vicio. Pero el cuarto... el cuarto era diferente.
 
 Un gigante cuya sola proximidad hacía que el espacio se encogiera, su cuerpo una geografía de heridas y abandono. Una de sus orejas faltaba, evidencia de algún encuentro brutal anterior. Su rostro entero era un grimorio de violencia: marcas, cicatrices, la piel irregular como si la hubiera arrancado y vuelto a coser sin precisión. Era claramente el jefe, y claramente algo que no debería ser subestimado.
 
@@ -1645,6 +1643,82 @@ Se acercó más a Emrys mientras hablaba, su movimiento siendo deliberadamente f
 Hikari se inclinó apenas, y por un instante la distancia protocolaria se quebró. "Si queréis," susurró, "hay rincones de Arvandor que no veréis con escolta." Emrys notó su voz más baja y la curiosidad que cruzó sus ojos; por una fracción de segundo, aquello sonó menos a oferta y más a promesa.
 
 "¡Absolutamente no!" respondió el Rey, su expresión siendo tormenta contenida. "Eres princesa heredera. Tu lugar está protegido en estos muros, no vagando por sectores donde peligros desconocidos—"
+
+---
+
+**Sombras del Pantano Perdido**
+
+El barco de Garron surcaba las aguas turbulentas del Mar de Mytras con una estabilidad que desafiaba las olas embravecidas. El marinero, un hombre curtido por años de navegación, había guiado al grupo a través de canales estrechos y corrientes traicioneras, sorteando arrecifes invisibles con una intuición que solo la experiencia podía otorgar. Emrys, Lyra, Sylphena y Hikari se aferraban a la barandilla, sus rostros tensos por la anticipación y el mareo leve que el vaivén provocaba.
+
+Garron, con su barba salpicada de sal y sus ojos entrecerrados contra el viento, señaló hacia el horizonte. "Ahí está. La isla. Próxima a las costas de Mytras, como pedisteis. Pero recordad: este lugar no es para los débiles. He oído historias de bestias que devoran barcos enteros y pantanos que tragan a los imprudentes."
+
+Emrys asintió, su mano apretando el Anillo Amplificador en su dedo. "Gracias, Garron. Nos has traído hasta aquí. El resto depende de nosotros."
+
+Lyra, con una sonrisa desafiante a pesar del nerviosismo, añadió: "No te preocupes, viejo lobo de mar. Sobreviviremos. Siempre lo hacemos."
+
+Sylphena, la elfa de cabello plateado, observó la isla con ojos violetas que parecían absorber la luz. "La naturaleza aquí es... diferente. Siento una energía primordial que no he percibido en Luminethil. Debemos ser cautelosos."
+
+Hikari, la princesa real con su cabello rubio-platino ondeando al viento, se inclinó sobre la barandilla. "Es emocionante. Un continente perdido, dicen. ¿Qué secretos guardará?"
+
+Garron detuvo el barco en una cala protegida, donde las aguas eran más calmadas. Bajó una barca de tamaño aceptable, cargada con provisiones para unos cuantos días: pan duro, frutas secas, agua embotellada y algunas hierbas curativas. "Esto os llevará a tierra. Yo me quedo aquí. No soy un explorador de pantanos. Buena suerte, jóvenes. Que los dioses os protejan."
+
+Los cuatro descendieron a la barca. Emrys tomó los remos, remando con fuerza hacia la costa. Mientras se alejaban, Garron levantó una mano en despedida. "¡Volved vivos!", gritó.
+
+A medida que se acercaban a la isla, un cambio drástico se apoderó del ambiente. El olor a sal marina fue reemplazado por un hedor putrefacto, como de carne en descomposición mezclada con humedad estancada. El clima se tornó sofocante: el aire pesado y cálido, cargado de vapor que hacía que cada respiración fuera un esfuerzo. La temperatura subió abruptamente, convirtiendo el fresco del mar en un bochorno opresivo que hacía sudar incluso en la sombra.
+
+"¿Sentís eso?", preguntó Lyra, arrugando la nariz. "Es como si el aire estuviera vivo... y enfermo."
+
+Emrys asintió, su frente perlada de sudor. "El pantano. Nos está dando la bienvenida de la peor manera."
+
+Cerca de la costa, un espectáculo macabro se desarrolló ante sus ojos. La bestia acuática que habían visto anteriormente, un leviatán de escamas grises y tentáculos ondulantes, emergió de las aguas profundas. Pero antes de que pudiera alcanzar la orilla, una sombra aún mayor surgió del pantano. Vorathor, el nuevo monstruo, era una visión de terror primordial. Su cuerpo, un leviatán de proporciones colosales, medía al menos treinta metros de largo, con espinas dorsales que brillaban con bioluminiscencia azulada, como si capturaran la luz de estrellas invisibles. Su piel era coriácea y resistente, cubierta de protuberancias que parecían cráteres lunares, absorbiendo impactos como una armadura viva. Mandíbulas múltiples se abrían en su cabeza, revelando filas de dientes afilados como dagas, y un rugido bajo retumbó a través del agua, causando ondas que sacudieron la barca.
+
+Vorathor se lanzó sobre la bestia acuática con una ferocidad que hizo que el agua hirviera. Sus mandíbulas se cerraron alrededor del leviatán menor, triturando escamas y carne en un festín sangriento. La bestia acuática se debatió, pero fue inútil; Vorathor la devoró en minutos, dejando solo restos flotantes que teñían el agua de rojo.
+
+"Por los dioses...", murmuró Hikari, sus ojos azules abiertos de horror. "Eso... eso no es natural. ¿Qué clase de lugar es este?"
+
+Lyra tragó saliva, su mano en la empuñadura de sus espadas. "Un lugar donde los débiles no sobreviven. Vamos, rememos más rápido antes de que nos vea como postre."
+
+Emrys aceleró el ritmo, y pronto llegaron a la orilla fangosa. La barca se hundió ligeramente en el lodo, pero pudieron desembarcar. El suelo bajo sus pies era blando y traicionero, succionando sus botas con cada paso.
+
+La fauna del pantano se reveló en toda su extraña gloria. Plantas carnívoras con hojas que se abrían como bocas, revelando dientes afilados y lenguas viscosas que se extendían hacia insectos desprevenidos. Árboles retorcidos con troncos cubiertos de musgo luminiscente que emitía una luz tenue, atrayendo a criaturas nocturnas. Insectos gigantes, como escarabajos del tamaño de puños, con caparazones iridiscentes que cambiaban de color para camuflarse en el follaje. Aves con plumas que mutaban en tonos para mimetizarse con el entorno, graznando llamadas que sonaban como risas burlonas. Criaturas híbridas, como peces con patas que saltaban entre charcos, o reptiles con alas membranosas que planeaban sobre el agua estancada. Todo evolucionado sin intervención humana, en un ecosistema salvaje y hostil.
+
+"Mirad eso", señaló Sylphena, apuntando a una flor que se movía sola, sus pétalos imitando voces humanas para atraer presas. "La naturaleza aquí ha desarrollado defensas que van más allá de lo que conozco. Es fascinante... y peligroso."
+
+Hikari se acercó a un árbol, tocando el musgo luminiscente. "Es como si el pantano estuviera vivo, respirando. ¿Cómo sobreviviremos aquí?"
+
+Emrys, cauteloso, advirtió: "Mantengámonos juntos. Un paso en falso y podríamos caer en una trampa."
+
+Después de una caminata corta pero agotadora, evitando charcos traicioneros y ramas espinosas, llegaron a las ruinas de un poblado abandonado. Estructuras de piedra derruidas, cubiertas de enredaderas, sugerían una civilización antigua que había sucumbido al pantano. Pero no estaban solos. De las sombras emergieron humanoides anfibios: piel escamosa verde, ojos luminosos, cuerpos adaptados al agua con aletas en brazos y piernas. Usaban necromancia y hematomancia, invocando runas sangrientas que teñían el aire de rojo.
+
+Los guardias triceratops-humanoides atacaron primero: criaturas masivas con piel córnea, cuernos afilados como hachas, blandiendo armas primitivas. Eran fuertes, brutales, y cuando cayeron bajo los ataques iniciales, los necromantes los revivieron con magia oscura, sus cuerpos regenerándose en un espectáculo grotesco.
+
+El combate fue caótico. El terreno fangoso penalizaba movimientos: cada paso era lento, y pozas de lodo atrapaban extremidades, obligando a los protagonistas a luchar en desventaja. Burbujas venenosas brotaban del suelo, debilitando con gases tóxicos.
+
+Emrys canalizó su magia elemental, creando barreras de tierra para proteger al grupo, pero el fango lo hacía inestable. "¡Cuidado con el lodo!", gritó. "¡Lyra, flanquea por la derecha!"
+
+Lyra, impulsiva, cargó contra un guardia revivido, pero resbaló en el barro y cayó en una poza. "¡Maldición!", exclamó, luchando por levantarse mientras el veneno la hacía toser.
+
+Sylphena invocó raíces para inmovilizar a los necromantes, pero uno logró revivir a dos guardias más. "¡Son demasiados!", advirtió. "¡Necesitamos coordinar!"
+
+Hikari, la princesa, mostró su vitalidad y curiosidad en acción. Usando su energía primordial para crear ráfagas de viento que dispersaban las burbujas venenosas, gritó: "¡Emrys, marca las vulnerabilidades! ¡Puedo golpear donde duele!"
+
+Emrys activó el Anillo, revelando fisuras en la armadura córnea de los guardias. Una chispa marcó puntos débiles, y Hikari lanzó proyectiles de energía que explotaron en impactos precisos. "¡Bien hecho!", dijo Emrys, sorprendido por su coordinación.
+
+Pero los enemigos eran fuertes. Un guardia revivido embistió a Sylphena, derribándola. Ella se levantó, magullada, invocando una barrera de raíces. "¡No somos invencibles!", admitió, jadeando. "¡Aprendamos de esto!"
+
+Lyra, aprendiendo de su error, usó su Brazalete para almacenar una espada y recuperar otra limpia, evitando el veneno. "¡Equipo, no solos!", gritó, coordinando con Hikari para flanquear.
+
+Finalmente, derrotaron a los guardias y necromantes, pero no sin costo. Heridas, agotamiento, y la enfermedad del pantano: fiebre que debilitaba magia y fuerza, requiriendo curación especial. Perdieron provisiones en el caos, forzando la necesidad de descanso prolongado.
+
+Huyendo a un lugar seguro, reflexionaron. Emrys, culpable por no liderar mejor, dijo: "Fallamos porque actuamos solos. Debemos mejorar."
+
+Lyra asintió: "Soy impulsiva. Lo admito. Pero juntos, somos más fuertes."
+
+Sylphena: "Mi magia es poderosa, pero necesito integrar mejor con el grupo."
+
+Hikari: "Aprendí que la curiosidad no basta; necesito acción disciplinada."
+
+La enfermedad persistía, llevando a un descanso largo hacia Seris Kael, fortaleciendo su vínculo y preparación para desafíos mayores.
 
 "Entonces protestaré oficialmente," interrumpió Hikari, su tono permaneciendo sereno pero con acero subyacente. "Registraré mi objeción formal en los anales reales, declarando que mi padre rehusó permitir que yo, Princesa de Arvandor, ejerciera mis deberes de hospitalidad hacia invitados del reino. ¿Es eso lo que deseas?"
 
