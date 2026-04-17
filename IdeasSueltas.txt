@@ -68,13 +68,6 @@ Dificultades nuevas:
 - Enfermedad del pantano (estado temporal que requiere recurso o curación especial).
 - Recursos perdidos forzando la necesidad de un largo periodo de curación/entrenamiento (puente hacia Seris Kael).
 
-
-NPCs y diálogos:
-- Pescador veterano: “El pantano no recuerda a los olvidados.”
-
-Gancho:
-- Inscripciones y símbolos que coinciden con lo visto en Thumoria — conexión con Mytras.
-
 ---
 
 3) MONTE ROXS, CUEVA Y BESTIA DE PIEDRA (arco posterior)
